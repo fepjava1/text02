@@ -8,7 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <!-- spring版本号 -->
-        <spring.version>4.3.6.RELEASE</spring.version>
+        <spring.version>5.2.5.RELEASE</spring.version>
         <!-- mybatis版本号 -->
     </properties>
 
@@ -112,7 +112,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>4.3.4.RELEASE</version>
+            <version>5.2.5.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
